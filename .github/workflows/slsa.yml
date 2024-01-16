@@ -10,4 +10,4 @@ jobs:
       id-token: write
       contents: read
       actions: read
-    uses: pandaninjas/slsa-github-generator/.github/workflows/builder_maven_slsa3.yml@1d10dc15c0bf4ed17818273e3909693ae0538da2
+    uses: pandaninjas/slsa-github-generator/.github/workflows/builder_maven_slsa3.yml@patch-2-test
